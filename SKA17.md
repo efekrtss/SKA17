@@ -21,10 +21,10 @@ Cinsiyet eşitliğini sağlamak ve tüm kadınlar ile kız çocuklarını güçl
 Herkes için erişilebilir su ve atıksu hizmetlerini ve sürdürülebilir su yönetimini güvence altına almak. 
 
 ## 7. ERİŞİLEBİLİR VE TEMİZ ENERJİ
-Herkes için karşılanabilir, güvenilir, sürdürülebilir ve modern enerjiye erişimi sağlamak.
+Herkes için karşılanabilir, güvenilir, sürdürülebilir ve enerjiye erişimi sağlamak.
 
 ## 8. İNSANA YAKIŞIR İŞ VE EKONOMİK BÜYÜME
-İstikrarlı, kapsayıcı ve sürdürülebilir ekonomik büyümeyi, tam ve üretken istihdamı ve herkes için insana yakışır işleri desteklemek. 
+İstikrarlı, genel ve sürdürülebilir ekonomik büyümeyi , üretken istihdamı ve herkes için insana yakışır işleri desteklemek. 
 
 ## 9. SANAYİ, YENİLİKÇİLİK VE ALTYAPI
 Dayanıklı altyapılar tesis etmek, kapsayıcı ve sürdürülebilir sanayileşmeyi desteklemek ve yenilikçiliği güçlendirmek.
