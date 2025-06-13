@@ -14,39 +14,43 @@ Sağlıklı ve kaliteli yaşamı her yaşta güvence altına almak.
 ## 4. NİTELİKLİ EĞİTİM
 Kapsayıcı ve hakkaniyete dayanan nitelikli eğitimi sağlamak ve herkes için yaşam boyu öğrenim fırsatlarını teşvik etmek. 
 
-## 5. TEMİZ SU VE SANİTASYON
+## 5. TOPLUMSAL CİNSİYET EŞİTLİĞİ
+Cinsiyet eşitliğini sağlamak ve tüm kadınlar ile kız çocuklarını güçlendirmek. 
+
+## 6. TEMİZ SU VE SANİTASYON
 Herkes için erişilebilir su ve atıksu hizmetlerini ve sürdürülebilir su yönetimini güvence altına almak. 
 
-## 6. ERİŞİLEBİLİR VE TEMİZ ENERJİ
-Herkes için karşılanabilir, güvenilir, sürdürülebilir ve modern enerjiye erişimi sağlamak. 
+## 7. ERİŞİLEBİLİR VE TEMİZ ENERJİ
+Herkes için karşılanabilir, güvenilir, sürdürülebilir ve modern enerjiye erişimi sağlamak.
 
-## 7. İNSANA YAKIŞIR İŞ VE EKONOMİK BÜYÜME
+## 8. İNSANA YAKIŞIR İŞ VE EKONOMİK BÜYÜME
 İstikrarlı, kapsayıcı ve sürdürülebilir ekonomik büyümeyi, tam ve üretken istihdamı ve herkes için insana yakışır işleri desteklemek. 
 
-## 8. SANAYİ, YENİLİKÇİLİK VE ALTYAPI
-Dayanıklı altyapılar tesis etmek, kapsayıcı ve sürdürülebilir sanayileşmeyi desteklemek ve yenilikçiliği güçlendirmek. 
+## 9. SANAYİ, YENİLİKÇİLİK VE ALTYAPI
+Dayanıklı altyapılar tesis etmek, kapsayıcı ve sürdürülebilir sanayileşmeyi desteklemek ve yenilikçiliği güçlendirmek.
 
-## 9. EŞİTSİZLİKLERİN AZALTILMASI
+## 10. EŞİTSİZLİKLERİN AZALTILMASI
 Ülkelerin içinde ve arasındaki eşitsizlikleri azaltmak. 
 
-## 10. SÜRDÜRÜLEBİLİR ŞEHİRLER VE TOPLULUKLAR
+## 11. SÜRDÜRÜLEBİLİR ŞEHİRLER VE TOPLULUKLAR
 Şehirleri ve insan yerleşimlerini kapsayıcı, güvenli, dayanıklı ve sürdürülebilir kılmak. 
 
-## 11. SORUMLU ÜRETİM VE TÜKETİM
+## 12. SORUMLU ÜRETİM VE TÜKETİM
 Sürdürülebilir üretim ve tüketim kalıplarını sağlamak. 
 
-## 12. İKLİM EYLEMİ
-İklim değişikliği ve etkileri ile mücadele için acilen eyleme geçmek. 
+## 13. İKLİM EYLEMİ
+İklim değişikliği ve etkileri ile mücadele için acilen eyleme geçmek.
 
-## 13. SUDAKİ YAŞAM
+## 14. SUDAKİ YAŞAM
 Sürdürülebilir kalkınma için okyanusları, denizleri ve deniz kaynaklarını korumak ve sürdürülebilir kullanmak. 
 
-## 14. KARASAL YAŞAM
+## 15. KARASAL YAŞAM
 Karasal ekosistemleri korumak, iyileştirmek ve sürdürülebilir kullanımını desteklemek; sürdürülebilir orman yönetimini sağlamak; çölleşme ile mücadele etmek; arazi bozunumunu durdurmak ve tersine çevirmek; biyolojik çeşitlilik kaybını engellemek. 
 
-## 15. BARIŞ, ADALET VE GÜÇLÜ KURUMLAR
+## 16. BARIŞ, ADALET VE GÜÇLÜ KURUMLAR
 Sürdürülebilir kalkınma için barışçıl ve kapsayıcı toplumlar tesis etmek, herkes için adalete erişimi sağlamak ve her düzeyde etkili, hesap verebilir ve kapsayıcı kurumlar oluşturmak. 
-## 16. AMAÇLAR İÇİN ORTAKLIKLAR
+
+## 17. AMAÇLAR İÇİN ORTAKLIKLAR
 Uygulama araçlarını güçlendirmek ve sürdürülebilir kalkınma için küresel ortaklığı canlandırmak. 
 
 ## REFERANSLAR
